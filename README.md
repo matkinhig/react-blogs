@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [REACT WEB PACK](https://viblo.asia/p/reactjs-ket-hop-voi-webpack-part-1-Eb85ogr052G).
 
 ## Available Scripts
 
